@@ -6,6 +6,7 @@
 ## Purpose: test run for causal forests at UGS endline
 ## Note: adapted from causal forest project 
 ## used in Columbia Flex Credit 
+## test line for github training 
 ##-------------------------------## 
 ##-------------------------------## 
 
